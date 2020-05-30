@@ -3,6 +3,8 @@ My personnal website
 
 ** Still under construction, wanted to see how it rendered live on github pages **
 
+Working right now to fix the horizontal overflow... updates to come.
+
 Some pages are missing right now, and the text is not corrected at all for now, might be up or down depending if i am working on it right now or not.
 
 I am also working on a french version since i am based in quebec, Canada.
