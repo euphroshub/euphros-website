@@ -281,6 +281,10 @@ footer: #2b111f
     }
 }
 
+.contact-section .row {
+    margin: 0;
+}
+
 .contact-section {
     padding-top: 10rem;
 }
