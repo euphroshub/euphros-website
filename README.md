@@ -3,7 +3,7 @@ My personnal website
 
 ** Still under construction, wanted to see how it rendered live on github pages **
 
-Working right now to fix the horizontal overflow... updates to come.
+fixed the horizontal overflow... now working on the form redirection after submissions.
 
 Some pages are missing right now, and the text is not corrected at all for now, might be up or down depending if i am working on it right now or not.
 
