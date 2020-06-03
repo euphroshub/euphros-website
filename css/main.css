@@ -433,6 +433,10 @@ g {
   }
 }
 
+.svgtest {
+  padding-top: 3rem;
+}
+
 /* end of SVG animation  */
 /* --------------projects animation -------------------*/
 .plane {
