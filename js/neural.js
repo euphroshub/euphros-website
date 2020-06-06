@@ -69,7 +69,7 @@
         }
     }
 
-    // Event handling
+    // Event handling - will check later to adapt for phones and tablets -- currently acting weird
     function addListeners() {
         if(!('ontouchstart' in window)) {
             window.addEventListener('mousemove', mouseMove);
